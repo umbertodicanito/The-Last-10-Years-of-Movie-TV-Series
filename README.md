@@ -16,10 +16,10 @@ This algorithm is probably one of the simplest and popular unsupervised machine 
 
 Going into details, the pseudocode workflow of the algorithm is the following:
 
->    1|  Choose k number of clusters
->    2| Select k random points from the data as centroids 
->    3| Assign all the points to the closest cluster centroid 
->    4| Recompute the centroids of newly formed clusters 
+>    1|  Choose k number of clusters <br>
+>    2| Select k random points from the data as centroids <br>
+>    3| Assign all the points to the closest cluster centroid <br>
+>    4| Recompute the centroids of newly formed clusters <br>
 >    5| Repeat steps 3 and 4 a number of times arbitrary in order to reach the convergence
 
 
