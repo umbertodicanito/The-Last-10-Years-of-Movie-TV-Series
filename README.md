@@ -23,4 +23,4 @@ Going into details, the pseudocode workflow of the algorithm is the following:
 >    5| Repeat steps 3 and 4 a number of times arbitrary in order to reach the convergence
 
 
-From the implementation point of view we chose to use the Scikit Learn (https://scikit-learn.org) one of the best open source libraries for machine learning. Now, let's start with the code.
+From the implementation point of view what whas used is the Scikit Learn (https://scikit-learn.org) one of the best open source libraries for machine learning. Now, let's start with the code.
